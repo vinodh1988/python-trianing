@@ -1,8 +1,8 @@
 def takeparamonlystring(a):
-    if(isinstance(a, int)):
-        print('int is ',a)
+    if(isinstance(a, str)):
+        print('str is ',a)
     else:
-        print('only int accepted')
+        print('only String accepted')
 
 
 takeparamonlystring('Rahul')
