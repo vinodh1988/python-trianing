@@ -26,3 +26,8 @@ c= {1,35,56,35,647,23,266,23} # set wont allow duplicates
 c.add(50)
 
 print(c)
+
+#print(c[3])
+
+for x in c:
+    print(x)
