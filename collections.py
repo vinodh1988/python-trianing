@@ -31,3 +31,13 @@ print(c)
 
 for x in c:
     print(x)
+
+d= {'sno':1,'name':'Rahul','city':'chennai'}
+
+print(d)
+
+print(d['sno'])
+
+d['state']='tamilnadu'
+
+print(d)
