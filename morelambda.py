@@ -4,6 +4,7 @@ def sum(a,b):
 add=sum
 
 print(add(535,34))
+print(sum(554,34))
 
 addition=lambda a,b:a+b
 
